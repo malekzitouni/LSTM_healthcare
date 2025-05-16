@@ -17,3 +17,4 @@ Enabled real-time risk assessment, giving clinicians dynamic insights into patie
 LSTMs unlock temporal patterns in medical data, improving early detection of life-threatening conditions.
 
 The model integrates multimodal data (labs, vitals, medications), showcasing adaptability for real-world healthcare challenges.
+![image](https://github.com/user-attachments/assets/d1f80c01-c109-4262-8073-b7436185badd)
